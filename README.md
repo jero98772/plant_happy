@@ -20,5 +20,7 @@ dead is very wet or dry
 * dht package 
 * oled package ( Adafruit_SSD1306 )
 ![schematic](http://wiki.unloquer.org/_media/personas/jero98772/happy_plant.png)
+# media 
+![video](http://wiki.unloquer.org/_media/personas/jero98772/vid_20200606_173204.mp4)
 # contribute 	
 	- Bitcoin: bc1qf3eh6ssgzw2t3qyjk2gzwuskq4ctfk8375fg3r
