@@ -22,4 +22,5 @@ dead is very wet or dry
 ![schematic](http://wiki.unloquer.org/_media/personas/jero98772/happy_plant.png)
 # media 
 ![picture](http://wiki.unloquer.org/_media/personas/jero98772/5.jpg)
-![video](http://wiki.unloquer.org/_media/personas/jero98772/vid_20200606_173204.mp4)
+
+![video](https://www.youtube.com/shorts/YAsNIonSBac)
