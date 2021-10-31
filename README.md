@@ -23,4 +23,4 @@ dead is very wet or dry
 # media 
 ![picture](http://wiki.unloquer.org/_media/personas/jero98772/5.jpg)
 
-![video](https://www.youtube.com/shorts/YAsNIonSBac)
+[video](https://www.youtube.com/shorts/YAsNIonSBac)
